@@ -751,7 +751,7 @@ export default function App() {
 
       <footer>
         <span>© 2026 <strong>Sync Soft Solution.</strong> All rights reserved.</span>
-        <span>Built with React</span>
+        
       </footer>
     </>
   );
