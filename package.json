@@ -1,0 +1,25 @@
+{
+  "name": "pdf-studio-react",
+  "private": true,
+  "version": "1.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "docx": "^9.5.1",
+    "html2pdf.js": "^0.10.3",
+    "jspdf": "^3.0.1",
+    "mammoth": "^1.9.1",
+    "pdf-lib": "^1.17.1",
+    "pdfjs-dist": "^5.3.31",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-react": "^4.4.1",
+    "vite": "^6.3.5"
+  }
+}
